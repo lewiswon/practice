@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 基础 -->
+    <color name="gray_btn">#898989</color>
+    <color name="red_light">#F49E99</color>
+    <color name="yellow">#FFC497</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_transparent">#EEFBFBFB</color>
+    <color name="gray">#808080</color>
+    <color name="gray_dark">#ABABAB</color>
+    <color name="gray_light">#AAAAAA</color>
+    <color name="black">#000000</color>
+    <color name="red">#c43635</color>
+    <color name="red_dull">#BA5555</color>
+    <color name="red_cinnabar">#CA6284</color>
+    <color name="red_black">#C53535</color>
+    <color name="blue_sky_2"> #3294D5</color>
+    <color name="blue_sky">#1B9AF7</color>
+    <color name="blue_cyanoz">#9162CA</color>
+    <color name="pink">#ED145B</color>
+    <color name="green">#80C31F</color>
+    <color name="random1">#7D9CAE</color>
+    <!-- text -->
+    <color name="word_white">#FFEEEB</color>
+    <color name="word_black_login">#535353</color>
+    <color name="word_red">#C43E33</color>
+    <color name="word_red_light">#C63535</color>
+    <color name="word_blue">#0C4DA2</color>
+    <color name="word_gray">#747474</color>
+    <color name="word_gray_light">#B9B9B9</color>
+    <color name="word_gray_light2">#B3B3B3</color>
+    <color name="word_black_bold">#4d4d4d</color>
+    <color name="word_black">#4B4B4B</color>
+    <color name="word_orange">#EE6033</color>
+    <!-- background -->
+    <color name="bg">#F9F9F9</color>
+    <color name="bg_orange">#FE6700</color>
+    <color name="bg_orange_light">#FEA92F</color>
+    <color name="order_edit_bg_orange_light">#FFFFD7</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bg_red">#ED145B</color>
+    <color name="bg_blue">#44A4FF</color>
+    <color name="bg_blue_light">#44C4FF</color>
+    <color name="bg_black">#313131</color>
+    <color name="bg_gary">#949494</color>
+    <color name="bg_gary_light">#F7F7F7</color>
+    <color name="bg_gary_dark">#F2F2F2</color>
+    <color name="bg_gary_main">#E0E0E0</color>
+    <!-- line -->
+    <color name="line_gary_light">#E4E4E4</color>
+    <color name="line_gary">#CECECE</color>
+    <color name="line_cut_apart">#E0E0E0</color>
+
+    <!-- 半透明 -->
+    <color name="transparent_light">#33000000</color>
+    <color name="transparent_dark">#99000000</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+
+</resources>

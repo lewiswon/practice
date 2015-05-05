@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        android:gravity="center"
+        android:background="@android:color/darker_gray"
+        android:text="Header" />
+	<LinearLayout 
+	    android:id="@+id/hide_ll"
+	    android:layout_width="match_parent"
+	    android:layout_height="500dip"
+	    android:orientation="vertical"
+        android:layout_below="@id/header"
+        android:layout_above="@+id/footer"
+	    >
+    <ListView
+        android:id="@+id/food_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       />
+</LinearLayout>
+    <TextView
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/darker_gray"
+        android:text="Footer" />
+
+</RelativeLayout>
